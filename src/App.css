@@ -1,0 +1,13 @@
+/* Example global styles */
+*{
+  /* background-color: black; */
+  color:rgb(188, 9, 9);
+}
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* .bgColor{
+  background-color:black;
+} */
+/* Override Bootstrap or add custom styles here */
